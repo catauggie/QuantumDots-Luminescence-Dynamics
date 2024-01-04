@@ -6,8 +6,31 @@ This repository contains the code and resources associated with the research art
 ## Article Abstract
 The article explores the utilization of advanced machine learning methodologies, including the PolynomialFeatures method and a diverse range of regressors, to predict key parameters in the temporal dynamics of Ag2S colloidal quantum dot luminescence spectra. The analysis covers polynomial degrees ranging from 2 to 9, and the regressors are categorized based on their algorithms and functionalities.
 
-## Contents
-- **Time Series.ipynb:** This file nvolves a comprehensive data processing pipeline, including the extraction of coefficients A, B, and C, denoising techniques, and subsequent application of various time series models. This section showcases the detailed steps involved in handling temporal aspects of the luminescence spectra data.
+### Time Series-copy1.ipynb
+
+This Jupyter notebook plays a pivotal role in our research, focusing on the intricate temporal dynamics within the luminescence spectra of Ag2S colloidal quantum dots. The file encompasses a comprehensive data processing pipeline designed to extract essential coefficients A, B, and C. Additionally, the notebook explores effective denoising techniques crucial for enhancing the quality of temporal data.
+
+- **Data Processing Pipeline:** Discover a step-by-step walkthrough of the data processing pipeline, covering the extraction of coefficients A, B, and C essential for understanding the temporal dynamics.
+- **Denoising Techniques:** Explore various denoising methodologies employed to refine the luminescence spectra, ensuring a cleaner and more accurate representation of the underlying temporal patterns.
+- **Application of Time Series Models:** Witness the application of diverse time series models, each tailored to capture distinct temporal aspects and dynamic fluctuations within the data.
+
+This notebook serves as a detailed guide to the meticulous handling of temporal aspects in luminescence spectra data. From data preprocessing to the application of advanced time series models, each step is meticulously outlined to provide a comprehensive understanding of the temporal dynamics in Ag2S colloidal quantum dot luminescence.
+
+Feel free to navigate through the code, experiment with the presented techniques, and adapt them to your specific requirements. Should you have any questions or need further clarification, do not hesitate to reach out for assistance.
+
+
+### Polynomials Predictions.ipynb
+
+This Jupyter notebook serves as a comprehensive exploration of polynomial predictions for the temporal dynamics in luminescence spectra of Ag2S colloidal quantum dots. In this notebook, we delve into the application of PolynomialFeatures method with varying degrees of polynomials to capture and model the intricate patterns inherent in the time series data.
+- **PolynomialFeatures Method:** The notebook showcases the implementation of the PolynomialFeatures method, with polynomial degrees ranging from 2 to 9, to transform the input features for the regression models.
+- **Regressor Variations:** Various regressors are employed in conjunction with different polynomial degrees to examine their impact on forecasting accuracy.
+- **Dynamic Regression Models:** Explore how the temporal dynamics are captured using polynomials of different degrees in conjunction with diverse regressors.
+- **Visualization:** Visual representations of the predictions, highlighting the performance of different polynomial regressors.
+
+The notebook provides a detailed walkthrough of the experimentation process, showcasing the versatility and effectiveness of employing polynomial features in forecasting temporal dynamics. By applying a spectrum of regressors with varying polynomial degrees, the analysis aims to uncover the most optimal approach for predicting key parameters in the luminescence spectra of Ag2S colloidal quantum dots.
+
+Feel free to experiment and adapt the provided code for your specific needs, and don't hesitate to reach out for any clarifications or additional information.
+
 - **Data:** The dataset employed for training and testing the models.
 - **Models:** Details regarding the various regressors and their configurations are provided in this section.
 - **Results:** The results obtained from the machine learning-based forecasting, along with visualizations and performance metrics.
