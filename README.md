@@ -16,9 +16,6 @@ This Jupyter notebook plays a pivotal role in our research, focusing on the intr
 
 This notebook serves as a detailed guide to the meticulous handling of temporal aspects in luminescence spectra data. From data preprocessing to the application of advanced time series models, each step is meticulously outlined to provide a comprehensive understanding of the temporal dynamics in Ag2S colloidal quantum dot luminescence.
 
-Feel free to navigate through the code, experiment with the presented techniques, and adapt them to your specific requirements. Should you have any questions or need further clarification, do not hesitate to reach out for assistance.
-
-
 ### Polynomials Predictions.ipynb
 
 This Jupyter notebook serves as a comprehensive exploration of polynomial predictions for the temporal dynamics in luminescence spectra of Ag2S colloidal quantum dots. In this notebook, we delve into the application of PolynomialFeatures method with varying degrees of polynomials to capture and model the intricate patterns inherent in the time series data.
@@ -28,9 +25,6 @@ This Jupyter notebook serves as a comprehensive exploration of polynomial predic
 - **Visualization:** Visual representations of the predictions, highlighting the performance of different polynomial regressors.
 
 The notebook provides a detailed walkthrough of the experimentation process, showcasing the versatility and effectiveness of employing polynomial features in forecasting temporal dynamics. By applying a spectrum of regressors with varying polynomial degrees, the analysis aims to uncover the most optimal approach for predicting key parameters in the luminescence spectra of Ag2S colloidal quantum dots.
-
-Feel free to experiment and adapt the provided code for your specific needs, and don't hesitate to reach out for any clarifications or additional information.
-
 
 ### Analysis.ipynb
 
@@ -42,7 +36,7 @@ This critical Jupyter notebook marks the culmination of our research efforts, wh
 
 This notebook serves as the nexus for drawing conclusions from the machine learning-based forecasting experiments. By delving into the analysis of the most effective models, visualizing their predictions, and interpreting the results, we aim to provide a comprehensive understanding of the temporal dynamics in Ag2S colloidal quantum dot luminescence spectra.
 
-Feel free to explore the code, delve into the visualizations, and leverage the insights gained for further research or application. If you have any questions or require additional information, feel free to reach out for assistance.
+Feel free to explore the code, experiment with the presented techniques, adapt for your specific needs, delve into the visualizations, and leverage the insights gained for further research or application. If you have any questions or require additional information, feel free to reach out for assistance and don't hesitate to reach out for any clarifications or additional information.
 
 
 ## How to Use
