@@ -41,7 +41,7 @@ Feel free to explore the code, experiment with the presented techniques, adapt f
 
 ## How to Use
 For those interested in reproducing or extending the study, the code and dataset are available. Detailed instructions on setting up the environment and running the code are provided in the repository.
-- **Data:** The dataset employed for training and testing the models is located in the "lumin" folder (only first 100 file due to github limits).
+- **Data:** The dataset employed for training and testing the models is located in the "lumin" folder (only first 100 files due to github limits).
 - **Figures:** All figures used in the article, along with their corresponding captions and references.
 
 
